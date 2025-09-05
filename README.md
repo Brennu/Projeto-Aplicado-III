@@ -10,9 +10,9 @@
 
 
 ## Dataset
-Os dados utilizados neste projeto estão disponíveis na pasta [Dataset](./Dataset). O dataset consiste em dois arquivos: twitter_training.csv e twitter_validation.csv. Esses arquivos contêm tweets rotulados com diferentes categorias de sentimento (positivo, negativo, neutro e irrelevante) sobre diversas empresas, produtos e tópicos.
+Os dados utilizados neste projeto estão disponíveis no link: https://www.kaggle.com/datasets/imuhammad/course-reviews-on-coursera/data. O dataset consiste em dois arquivos principais: Coursera_courses.csv e Coursera_reviews.csv. Esses arquivos contêm um compilado de mais de 1,4 milhão de avaliações de cursos da plataforma Coursera. As avaliações incluem o texto do feedback, a nota numérica (de 1 a 5 estrelas) atribuída pelo aluno, e informações sobre o curso correspondente.
 
-O objetivo deste dataset é permitir a análise de sentimentos em redes sociais, auxiliando na compreensão de opiniões públicas sobre marcas e eventos. Com esses dados, é possível explorar padrões de linguagem, tendências de sentimentos e a relevância de determinados temas em discussões online.
+
 
 
 ## Documentação
