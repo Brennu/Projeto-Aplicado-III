@@ -16,7 +16,7 @@ O objetivo deste dataset é permitir a análise de sentimentos em redes sociais,
 
 
 ## Documentação
-A documentação do projeto aplicado II está disponível na pasta [Documentação](./Documentação).
+A documentação do projeto aplicado III está disponível na pasta [Documentação](./Documentação).
 
 ## Membros do Grupo
 - **Brenno Monteiro de Oliveira**
