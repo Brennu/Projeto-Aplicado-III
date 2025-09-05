@@ -1,4 +1,4 @@
-# SISTEMA INTELIGENTE DE RECOMENDAÇÃO DE CURSOS EDUCACIONAIS
+# Sistema Inteligente De Recomendação De Cursos Educacionais
 
 
 ## Sumário
