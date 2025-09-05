@@ -3,6 +3,7 @@
 
 ## Sumário
 - [Objetivo](#objetivo)
+- [Dataset](#dataset)
 - [Documentação](#Documentação)
 - [Membros do Grupo](#membros-do-grupo)
 
